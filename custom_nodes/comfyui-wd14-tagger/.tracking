@@ -1,0 +1,11 @@
+README.md
+__init__.py
+.gitignore
+LICENSE
+wd14tagger.py
+pyproject.toml
+pysssss.json
+pysssss.py
+requirements.txt
+web/js/wd14tagger.js
+.github/workflows/publish_action.yml
